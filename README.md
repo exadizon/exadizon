@@ -37,9 +37,9 @@ Brief description of the project and your role.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=adiluexe&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=adiluexe&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adiluexe&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=adiluxe&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=adiluxe&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adiluxe&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adiluexe/adiluexe/output/github-snake-dark.svg" />
