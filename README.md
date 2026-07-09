@@ -60,9 +60,9 @@ I engineer systems that eliminate manual overhead. Whether I'm building internal
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=exadizon&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="exadizon stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exadizon&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=exadizon&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="exadizon stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=exadizon&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=exadizon&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=exadizon&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
